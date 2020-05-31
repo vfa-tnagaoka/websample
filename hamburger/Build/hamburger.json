@@ -1,0 +1,15 @@
+{
+"companyName": "Colorful Tails",
+"productName": "Burger!",
+"productVersion": "1.0",
+"dataUrl": "hamburger.data.unityweb",
+"wasmCodeUrl": "hamburger.wasm.code.unityweb",
+"wasmFrameworkUrl": "hamburger.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
